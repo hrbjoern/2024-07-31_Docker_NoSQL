@@ -1,0 +1,3 @@
+#DO not copy the Dockerfile:
+Dockerfile
+.dockerignore
